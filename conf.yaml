@@ -1,0 +1,13 @@
+sysinfo:
+  uri: http://portal.sdsw.tax.cn
+  username:
+  pwd: 88888888
+dbinfo:
+  uri: localhost
+  user: root
+  pwd: ytsw
+  port: 4408
+  dataname: tias
+goroutinenum:40
+limit: 100
+logfile: c:\ws\go_ws\log.txt
